@@ -55,6 +55,5 @@ The chatbot uses an `intents.json` with labeled data like this:
       "patterns": ["Hi", "Hello", "Hey"],
       "responses": ["Hello!", "Hi there!", "Hey!"]
     },
-    ...
   ]
 }
